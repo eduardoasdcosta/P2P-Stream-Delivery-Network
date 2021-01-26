@@ -1,2 +1,2 @@
 # P2P-Stream-Delivery-Network
-Redes de Computadores e Internet - Projeto
+Computer Networks and the Internet - Project
